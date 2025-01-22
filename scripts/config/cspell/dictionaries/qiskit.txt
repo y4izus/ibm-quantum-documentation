@@ -37,7 +37,6 @@ Hadamard
 Hamiltonians
 IBMQPU
 ITTL
-ipynb
 Ipython
 MCMT
 MCMTV
